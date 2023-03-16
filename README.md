@@ -9,3 +9,5 @@ El proceso de medición se repite muchas veces por segundo para generar un conju
 En resumen, el sensor LiDAR funciona emitiendo pulsos de luz láser y midiendo el tiempo que tarda la luz en rebotar en los objetos cercanos y regresar al sensor. Este proceso se repite muchas veces por segundo para generar un mapa 3D del entorno que se puede utilizar para diferentes aplicaciones.
 
 ![S2OrUSI1Vkk2O4Cu ](https://user-images.githubusercontent.com/83053212/225543722-b1c7b0c4-6a35-4c28-85f9-af76e925e6cd.jpeg)
+
+En concreto, los modelos de iPhone que tienen un sensor LiDAR son el iPhone 12 Pro, el iPhone 12 Pro Max, el iPhone 13 Pro y el iPhone 13 Pro Max. Este sensor LiDAR (del inglés Light Detection and Ranging) utiliza láseres para medir la distancia a los objetos cercanos y crear un mapa 3D del entorno, lo que permite mejorar la precisión de la realidad aumentada, el enfoque automático y otras aplicaciones.
