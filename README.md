@@ -1,6 +1,6 @@
 # SENSOR LIDAR
 
-##El sensor LiDAR (Light Detection and Ranging) funciona emitiendo pulsos de luz láser y midiendo el tiempo que tarda la luz en rebotar en los objetos cercanos y regresar al sensor. Esto le permite determinar la distancia entre el sensor y los objetos que lo rodean.
+El sensor LiDAR (Light Detection and Ranging) funciona emitiendo pulsos de luz láser y midiendo el tiempo que tarda la luz en rebotar en los objetos cercanos y regresar al sensor. Esto le permite determinar la distancia entre el sensor y los objetos que lo rodean.
 
 El sensor LiDAR emite una serie de pulsos de luz láser invisibles al ojo humano que se propagan en todas las direcciones. Al llegar a un objeto, parte de la luz se refleja de vuelta hacia el sensor LiDAR. El sensor LiDAR mide el tiempo que tarda la luz en viajar desde el sensor, rebotar en el objeto y volver al sensor. A partir del tiempo de viaje y la velocidad de la luz, el sensor LiDAR puede calcular la distancia al objeto.
 
